@@ -1,4 +1,4 @@
 theme: minima
 url: https://philam.github.io/movetomastodon
-  disqus:
+disqus: 
     shortname: disqus_98KPqC6bAD
