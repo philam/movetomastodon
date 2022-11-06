@@ -31,3 +31,4 @@ See my original post with more information [here](https://philipmallis.com/blog/
 * Robert Weetman - [https://mastodon.social/@RobertWeetman@mastodon.scot](https://mastodon.social/@RobertWeetman@mastodon.scot)
 * IrishCycle.com - [https://mastodon.ie/@irishcycle](https://mastodon.ie/@irishcycle)
 * bikepedantic - [https://mas.to/@bikepedantic](https://mas.to/@bikepedantic)
+* T2 Commuter - [https://aus.social/@T2commuter@mastodon.online](https://aus.social/@T2commuter@mastodon.online)
