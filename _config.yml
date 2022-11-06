@@ -1,4 +1,6 @@
 theme: minima
+skin: dark
+title: Move to Mastodon for Urbanists
 url: https://philam.github.io/movetomastodon
 disqus: 
     shortname: disqus_98KPqC6bAD
