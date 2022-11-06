@@ -1,8 +1,9 @@
 ---
 layout: page
+title: List of urban planning, cities and transport accounts on Mastodon
+comments: true
 ---
 
-## List of urban planning, cities and transport accounts on Mastodon
 Not exhaustive, let me know below if you have any suggestions to add. Disclaimer: I don't necessarily endorse or otherwise approve of the views of any account listed.
 
 See my original post with more information [here](https://philipmallis.com/blog/2022/11/03/from-twitter-to-mastodon-a-guide-for-urbanists-and-gunzels/).
