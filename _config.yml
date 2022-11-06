@@ -1,11 +1,10 @@
 theme: minima
-title: Move to Mastodon for urban planning, cities and transport
-header_pages:
-  - index.md
-  - list.md
+url: https://philam.github.io/movetomastodon/
   social_links:
     github: philam
     flickr: philipmallis
     mastodon:
      - username: philip
        instance: aus.social
+  disqus:
+    shortname: disqus_98KPqC6bAD
