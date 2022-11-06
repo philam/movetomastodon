@@ -2,9 +2,9 @@ theme: minima
 skin: dark
 title: Move to Mastodon for Urbanists
 description: Urban planning, cities and transport on Mastodon
-url: https://philam.github.io/
+url: https://philam.github.io/movetomastodon
 disqus: 
-    shortname: disqus_98KPqC6bAD
+    shortname: https-philam-github-io-movetomastodon
 minima:
   social_links:
     github: philam
