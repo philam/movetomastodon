@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Planning, cities and transport Mastodon accounts</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <script type = "text/javascript" src="assets/js/jquery-3.6.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <!-- weitere Kopfinformationen -->
+    <!-- Kommentare werden im Browser nicht angezeigt. -->
+  </head>
+  <body>
+    <h1>&#x1f6b2; &#128024; follow some urbanists on mastodon</h1>
+      <p>Where is urbanism happening on <a href="https://en.wikipedia.org/wiki/Mastodon_(software)" target="_blank">Mastodon</a>?<p>
+        <p>This page provides a list of some accounts related to urban planning, cities and transport which you can follow. You can decide if you want to follow some or all of the accounts in the list. You are provided with a .csv file, which you can upload in Mastodon in order to follow those you select.
+      <a href="instructions.pdf" target="_blank">Here</a> you can find brief instructions on how to do this. You can follow and post with the #urbanplanning hashtag.
+    </p>
+    <p>Please <a href="https://aus.social/@philip">contact me</a> if you wish to be added, have an account to nominate or wish to be removed.</p>
+    <div>
+      <p>
+        <button type="button" id="all_button">Select all</button>
+        <button type="button" id="none_button">Select none</button>
+      </p>
+    </div>
+
+    <form method="post" action="/Tests/Post/">
+      <fieldset>
+          <legend><b>Account, name, and profile link</b></legend>
+          <div id="sociologists_list">
+          </div>
+          <br>
+          <!-- <input type="submit" value="Get selected accounts" id="selected_button"/> -->
+          <button type="button" id="selected_button">Get csv file for selected accounts</button>
+      </fieldset>
+    </form>
+
+    <p>Please <a href="https://aus.social/@philip">contact me</a> if you wish to be added, have an account to nominate or wish to be removed.</p>
+    <hr>
+    <p>
+      <small>
+        <i>Thank you to <a href="https://github.com/jwyg/mastodon-sts">jwyg</a> for creating this fork, itself forked from <a href="https://github.com/trutzig89182/Mastodon-Sociologists">this list of sociologists</a> by <a href="https://social.tchncs.de/@perspektivbrocken" target="_blank">David Adler</a>, <a href="https://social.tchncs.de/@thhaase" target="_blank">Thomas Haase</a> & <a href="https://scholar.social/@hendrikerz" target="_blank">Hendrik Erz</a>.</i>
+      </small>
+    </p>
+    <!-- Scripts -->
+      <script src="assets/js/papaparse.min.js"></script>
+      <script src="assets/js/createcsv.js"></script>
+
+  </body>
+
+
+</html>
